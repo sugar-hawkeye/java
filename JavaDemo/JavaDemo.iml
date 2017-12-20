@@ -11,5 +11,7 @@
     <orderEntry type="library" name="src0_82" level="project" />
     <orderEntry type="library" name="htmlparser" level="project" />
     <orderEntry type="library" name="jsoup-1.10.3" level="project" />
+    <orderEntry type="library" name="mina-core-2.0.16" level="project" />
+    <orderEntry type="library" name="commons-logging-1.0.3" level="project" />
   </component>
 </module>
